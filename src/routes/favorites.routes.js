@@ -1,7 +1,7 @@
 const { Router } = require("express");
 
 const FavoritesController = require("../controllers/FavoritesController");
-/*const ensureAuthenticated = require("../middlewares/ensureAuthenticated");*/
+const ensureAuthenticated = require("../middlewares/ensureAuthenticated");
 
 const favoritesRoutes = Router();
 
