@@ -7,3 +7,4 @@ O back-end do projeto, que lida com a lógica e o armazenamento dos dados, está
 ## 💡Características
 - food
 - explorer
+- react
