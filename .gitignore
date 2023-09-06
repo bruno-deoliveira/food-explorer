@@ -1,3 +1,5 @@
 node_modules
 
+.env
+
 npm install -> para restaurar o arquivo node_modules 
