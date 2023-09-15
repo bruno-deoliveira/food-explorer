@@ -9,3 +9,4 @@ O back-end do projeto, que lida com a lógica e o armazenamento dos dados, está
 - explorer
 - react
 - vitae
+- vitae
