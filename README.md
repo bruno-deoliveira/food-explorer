@@ -56,7 +56,7 @@ Agora você pode interagir com o back-end da aplicação Food Explorer tanto rem
 Não hesite em entrar em contato se precisar de assistência adicional ou tiver alguma dúvida!
 
 ## 📝 Licença
-Esse projeto está sob a licença [MIT](). Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença [MIT](https://github.com/bruno-deoliveira/food-explorer/blob/main/LICENSE). Veja o arquivo LICENSE para mais detalhes.
 
 ## 📞 Suporte
 Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
